@@ -8,7 +8,7 @@ from diffusers.pipelines.stable_diffusion.safety_checker import (
 )
 
 
-MODEL_ID = "dreamlike-art/dreamlike-photoreal-2.0"
+MODEL_ID = "darkstorm2150/Protogen_v2.2_Official_Release"
 MODEL_CACHE = "diffusers-cache"
 SAFETY_MODEL_ID = "CompVis/stable-diffusion-safety-checker"
 
